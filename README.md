@@ -7,3 +7,5 @@ docker create --name "ddns" --restart=always -e DOMAIN="my.cool.domain" -e APIKE
 docker start ddns
 
 ```
+
+test
